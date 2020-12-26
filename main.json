@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_bitwaescherei}"
+                 "value":"{<lobby>\/generic-tech.json#start_hackteria}"
                 }],
          "type":"tilelayer",
          "visible":true,
