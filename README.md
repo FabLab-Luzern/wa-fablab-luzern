@@ -2,6 +2,8 @@
 
 This is a copy of bitwäscherei map hosten on digitale gesellschaft.
 
+turned on github pages
+
 
 ## Customizing your map
 
