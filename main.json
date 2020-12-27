@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>generic-tech.json#startNorthEast}\n"
+                 "value":"{<lobby>\/maps\/generic-tech.json#start_hackteria}\n"
                 }],
          "type":"tilelayer",
          "visible":true,
