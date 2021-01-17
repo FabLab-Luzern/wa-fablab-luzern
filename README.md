@@ -8,6 +8,8 @@ turned on github pages
 
 working on it...
 
+You can test it here: https://play.wa.binary-kitchen.de/_/global/dusjagr.github.io/wa-fablab-luzern/main.json
+
 
 # Instructions (old) 
 
