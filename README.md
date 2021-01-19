@@ -4,11 +4,11 @@ This is a forked repo from bitwäscherei / hackteria teleport island map.
 
 turned on github pages
 
-# Virtual 2d world of the Fablab Luzern
+# Virtual 2d world of the [Fablab Luzern](https://fablab-luzern.ch/)
 
 working on it...
 
-You can test it here: https://play.wa.binary-kitchen.de/_/global/dusjagr.github.io/wa-fablab-luzern/main.json
+You can test it here: https://play.wa.binary-kitchen.de/_/global/fablab-luzern.github.io/wa-fablab-luzern/main.json
 
 
 # Instructions (old) 
