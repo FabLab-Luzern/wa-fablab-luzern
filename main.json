@@ -192,7 +192,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWesbite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.hackteria.org\/wiki\/Team_Compa%C3%B1eros"
                 }],
