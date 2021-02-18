@@ -17,7 +17,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -35,7 +35,7 @@
                  "value":"\/_\/global\/digitalegesellschaft.github.io\/workadventure-map-bitwaescherei\/main.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -53,7 +53,7 @@
                  "value":"\/_\/global\/digitalegesellschaft.github.io\/workadventure-map-bitwaescherei\/hackteria\/island.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -89,7 +89,7 @@
                  "value":"https:\/\/fablab-luzern.ch\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -107,7 +107,7 @@
                  "value":"https:\/\/fablab-luzern.ch\/info\/fab-charta-2\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -125,7 +125,7 @@
                  "value":"https:\/\/www.hackteria.org\/wiki\/Hackteria_Global_Network_-_assembly_at_rC3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -143,7 +143,7 @@
                  "value":"https:\/\/www.hackteria.org\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -161,7 +161,7 @@
                  "value":"https:\/\/www.hackteria.org\/wiki\/Medizintechnik_DIY#Schlusspr.C3.A4sentationen_.2F_Demos_Zeitplan"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -179,7 +179,7 @@
                  "value":"https:\/\/www.hackteria.org\/wiki\/Team_Dynamit"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -197,7 +197,7 @@
                  "value":"https:\/\/www.hackteria.org\/wiki\/Team_Compa%C3%B1eros"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -215,7 +215,7 @@
                  "value":"https:\/\/www.hackteria.org\/wiki\/Team_Black_As_My_Morning_Coffee"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -233,7 +233,7 @@
                  "value":"https:\/\/www.hackteria.org\/wiki\/Team_Ameisib%C3%A4r"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -251,7 +251,7 @@
                  "value":"https:\/\/www.gaudi.ch\/GaudiLabs\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -269,7 +269,7 @@
                  "value":"https:\/\/www.tricider.com\/embed\/?show=3VvNMkjHR9R"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -287,7 +287,7 @@
                  "value":"https:\/\/www.hackteria.org\/wiki\/Medizintechnik_DIY#Share_Night_Schedule"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -305,7 +305,7 @@
                  "value":"sounds\/omega%20attraktor%20-%20space%20time%20continuum%20-%2001%20starflow.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -323,7 +323,7 @@
                  "value":"sounds\/saulaerm.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -341,7 +341,7 @@
                  "value":"sounds\/3d_printer.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -359,7 +359,7 @@
                  "value":"hackteria\/hackteriaMIX_08.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -377,7 +377,7 @@
                  "value":"HackteriaIsland"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -395,7 +395,7 @@
                  "value":"FabLabLU-TeamA"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -413,7 +413,7 @@
                  "value":"FabLabLU-TeamB"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -431,7 +431,7 @@
                  "value":"FabLabLU-TeamC"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -449,7 +449,7 @@
                  "value":"FabLabLU-TeamD"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -467,7 +467,7 @@
                  "value":"FabLabLU-Classroom"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -485,7 +485,7 @@
                  "value":"GaudiLabs"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -497,7 +497,7 @@
          "name":"collision",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -509,7 +509,7 @@
          "name":"floorbottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -521,7 +521,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -533,7 +533,7 @@
          "name":"floor_upper",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -545,7 +545,7 @@
          "name":"floor_above",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -563,7 +563,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -575,7 +575,7 @@
          "name":"other stuff",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -587,7 +587,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -599,7 +599,7 @@
          "name":"stuffs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -611,7 +611,7 @@
          "name":"plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -623,7 +623,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -634,7 +634,7 @@
          "name":"floortop",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -646,7 +646,7 @@
          "name":"walltop",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -658,7 +658,7 @@
          "name":"veg",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
